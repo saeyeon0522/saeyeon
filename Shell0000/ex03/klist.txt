@@ -1,0 +1,5 @@
+Credentials cache: API:9FA80B01-A40D-4341-9F8E-4A7415F62A28
+        Principal: salim@42SEOUL.KR
+
+  Issued                Expires               Principal
+May 17 18:47:23 2022  May 18 04:47:23 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
